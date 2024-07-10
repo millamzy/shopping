@@ -1,9 +1,7 @@
 import React from 'react'
-import  { useState } from 'react';
-import Navbar from '../../components/navbar/navbar'
+import Navbar from '../../components/navbar/Navbar.jsx'
 import Hero from '../../components/Hero/Hero'
 import Card from '../../components/Card/Card'
-import { products } from '../../components/Card/Data.js';
 import Footer from '../../components/Footer/Footer.jsx';
 
 const Home = () => {
